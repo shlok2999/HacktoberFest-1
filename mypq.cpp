@@ -1,6 +1,7 @@
 #include<iostream>
 #include<vector>
 
+//c++ code
 using namespace std;
 
 class mypq {
